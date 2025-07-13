@@ -1,4 +1,3 @@
-package interfaceandabstraction;
 
 abstract class Employee{
 	 private String employeeId;
