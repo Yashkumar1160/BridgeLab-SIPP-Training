@@ -3,20 +3,25 @@
 ## Branches:
 
 ### Main
+- Readme 
     
 ### Core-Java
+- Arrays
+- Built in functions
+- Java control flow concepts
+- Java Programming Elements
 - Level 1
 - Level 2
-- Arrays
-- BuiltIn Function
-- Control Flow
-- Java Programming Elements
 - Methods
-- String
+- Practice
+- Strings
     
 ### OOPS
 - Class and Object
+- Class and Sequence Diagram
 - Constructor, Access Modifier, Class vs Instance Variable
+- Inheritance
+- Interface Polymorphism Abstraction Encapsulation
 - This, Static, Final
 
 ### DSA
@@ -25,5 +30,15 @@
 - LinkedList
 - Sorting
 - Stack and Queue
+- Time complexity analysis
     
 ### Workshop
+- Book Buddy
+- Flight Booking System
+- Quiz Platform
+- Quiz Result Processor
+- Report Card Generator
+
+### Generics
+
+
